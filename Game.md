@@ -5,7 +5,7 @@
 
 Before you begin, ensure you have met the following requirements:
 
-- **Bazel**: Version 2.2.0 or newer. Follow the installation instructions [here](https://docs.bazel.build/versions/main/install.html).
+- **Bazel**: Version 3.7.2. Follow the installation instructions [here](https://docs.bazel.build/versions/main/install.html).
 - **Compiler**: g++ version 9 or newer.
 - **Python**: Version 3.9 or newer.
 - **Numpy**: Install using the command `pip install numpy`.
